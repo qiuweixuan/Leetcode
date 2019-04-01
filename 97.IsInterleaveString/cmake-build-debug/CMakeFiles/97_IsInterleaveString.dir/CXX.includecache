@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Project/C++/leetcode/Leetcode/97.IsInterleaveString/main.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+string
+-
+
