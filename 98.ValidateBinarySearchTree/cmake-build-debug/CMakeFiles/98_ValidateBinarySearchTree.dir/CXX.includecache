@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Project/C++/leetcode/Leetcode/98.ValidateBinarySearchTree/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+string
+-
+queue
+-
+sstream
+-
+
