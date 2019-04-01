@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Project/C++/leetcode/Leetcode/99.RecoverBinarySearchTree/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+string
+-
+queue
+-
+sstream
+-
+limits.h
+-
+
