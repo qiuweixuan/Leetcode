@@ -5,7 +5,7 @@
 #include <queue>
 #include <sstream>
 #include <limits.h>
-
+#include <climits>
 using namespace std;
 /**
  * Definition for a binary tree node.
@@ -98,82 +98,26 @@ public:
 
 class Solution{
 private:
-
-//    void searchLeftMistake(TreeNode* cur,TreeNode* &prev,TreeNode* &mistake){
-//        if(cur && !mistake){
-//            cout<<"cur1:"<<cur->val<<endl;
-//            //左子树找prev
-//            searchLeftMistake(cur->left,prev,mistake);
-//            //发生失序关系
-//            if(prev->val > cur->val){
-//                mistake = prev;
-//                return;
-//            }
-//            prev = cur;
-//            //右子树中继续找失序关系
-//            searchLeftMistake(cur->right,prev,mistake);
-//        }
-//    }
-
-
-//    void searchRightMistake(TreeNode* cur,TreeNode* &next,TreeNode* &mistake){
-//        if(cur && !mistake){
-//            cout<<"cur2:"<<cur->val<<endl;
-//            cout<<"next2:"<<next->val<<endl;
-//            //右子树找next
-//            searchRightMistake(cur->right,next,mistake);
-//            //发生失序关系
-//            if(next->val < cur->val ){
-//                mistake = next;
-//                cout<<mistake->val<<endl;
-//                return;
-//            }
-//            next = cur;
-//            cout<<next->val<<endl;
-//            if(cur->left)
-//            cout<<cur->left->val<<endl;
-//            //左子树中继续找失序关系
-//            searchRightMistake(cur->left,next,mistake);
-//        }
-//    }
-public:
-    void recover(TreeNode *root, TreeNode *&pre, TreeNode *&a, TreeNode *&b) {
-        if (root)
-        {
-            recover(root->left, pre, a, b);
-
-            if (root->val < pre->val)
-            {
-                if (!a) a = pre; //a should change once.
-                b = root; //b could change twice.
-            }
-            pre = root;
-
-            recover(root->right, pre, a, b);
-        }
+    TreeNode* first;
+    TreeNode* second;
+    TreeNode* prev;
+    void help(TreeNode* root){
+        if(root==NULL)  return;
+        help(root->left);
+        if(first==NULL && prev->val >= root->val)   first=prev;
+        if(first!=NULL && prev->val >= root->val)   second=root;
+        prev=root;
+        help(root->right);
     }
+
+public:
     void recoverTree(TreeNode* root) {
-
-       TreeNode prev =  TreeNode(numeric_limits<int>::min());
-       TreeNode* leftMistake = NULL;
-       TreeNode* rightMistake = NULL;
-       TreeNode* p = &prev;
-       TreeNode* cur = root;
-       recover(cur,p,leftMistake,rightMistake);
-       //searchLeftMistake(cur,p,leftMistake);
-
-
-
-//       TreeNode next = TreeNode(numeric_limits<int>::max());
-//       TreeNode* rightMistake = NULL;
-//       TreeNode* n = &next;
-//        cur = root;
-//       searchRightMistake(cur,n,rightMistake);
-
-
-       if(leftMistake && rightMistake ){
-           swap(leftMistake->val,rightMistake->val);
-       }
+        first = NULL;
+        second = NULL;
+        prev = new TreeNode(INT_MIN);
+        help(root);
+        swap(first->val, second->val);
+        delete(prev);
     }
 
     void searchTreeWithFP(TreeNode* root,void (*func)(TreeNode*)){
