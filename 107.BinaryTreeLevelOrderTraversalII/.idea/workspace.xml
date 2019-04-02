@@ -12,20 +12,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdc5c5dc-2979-4638-8697-d0f8ae3274fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/.idea/105.ConstructBinaryTreefromPreorderandInorderTraversal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../100.SameTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../100.SameTree/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../106.ConstructBinaryTreefromInorderandPostorderTraversal/.idea/106.ConstructBinaryTreefromInorderandPostorderTraversal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../106.ConstructBinaryTreefromInorderandPostorderTraversal/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../106.ConstructBinaryTreefromInorderandPostorderTraversal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../106.ConstructBinaryTreefromInorderandPostorderTraversal/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../106.ConstructBinaryTreefromInorderandPostorderTraversal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../106.ConstructBinaryTreefromInorderandPostorderTraversal/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../106.ConstructBinaryTreefromInorderandPostorderTraversal/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../106.ConstructBinaryTreefromInorderandPostorderTraversal/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../97.IsInterleaveString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../97.IsInterleaveString/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../98.ValidateBinarySearchTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../98.ValidateBinarySearchTree/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../99.RecoverBinarySearchTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../99.RecoverBinarySearchTree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -92,7 +89,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />

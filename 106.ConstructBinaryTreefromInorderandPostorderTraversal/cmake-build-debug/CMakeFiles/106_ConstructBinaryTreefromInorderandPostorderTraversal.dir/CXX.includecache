@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Project/C++/leetcode/Leetcode/106.ConstructBinaryTreefromInorderandPostorderTraversal/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+string
+-
+queue
+-
+sstream
+-
+limits.h
+-
+climits
+-
+vector
+-
+assert.h
+-
+
