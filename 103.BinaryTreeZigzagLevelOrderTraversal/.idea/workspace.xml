@@ -12,16 +12,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="883b1204-c6c1-472f-877b-41e4e77f4eb9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../106.ConstructBinaryTreefromInorderandPostorderTraversal/.idea/106.ConstructBinaryTreefromInorderandPostorderTraversal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../106.ConstructBinaryTreefromInorderandPostorderTraversal/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../106.ConstructBinaryTreefromInorderandPostorderTraversal/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../106.ConstructBinaryTreefromInorderandPostorderTraversal/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../106.ConstructBinaryTreefromInorderandPostorderTraversal/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../106.ConstructBinaryTreefromInorderandPostorderTraversal/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../106.ConstructBinaryTreefromInorderandPostorderTraversal/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../106.ConstructBinaryTreefromInorderandPostorderTraversal/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/.idea/112.PathSum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../106.ConstructBinaryTreefromInorderandPostorderTraversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../106.ConstructBinaryTreefromInorderandPostorderTraversal/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../107.BinaryTreeLevelOrderTraversalII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../107.BinaryTreeLevelOrderTraversalII/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -158,7 +159,7 @@
     <option name="totallyTimeSpent" value="1642000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />

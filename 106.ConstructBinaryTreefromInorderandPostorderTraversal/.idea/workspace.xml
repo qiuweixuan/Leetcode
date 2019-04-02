@@ -12,16 +12,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cccf94f-e884-4860-bb8a-f7fe18af48db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/106.ConstructBinaryTreefromInorderandPostorderTraversal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/.idea/112.PathSum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../107.BinaryTreeLevelOrderTraversalII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../107.BinaryTreeLevelOrderTraversalII/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -62,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-21">
-              <caret line="78" column="40" lean-forward="true" selection-start-line="78" selection-start-column="40" selection-end-line="78" selection-end-column="40" />
+            <state relative-caret-position="-329">
+              <caret line="90" column="41" selection-end-line="109" selection-end-column="1" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -89,7 +90,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -148,12 +149,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554182628881</updated>
-      <workItem from="1554182635569" duration="702000" />
+      <workItem from="1554182635569" duration="1645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="702000" />
+    <option name="totallyTimeSpent" value="1645000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -193,8 +194,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21">
-          <caret line="78" column="40" lean-forward="true" selection-start-line="78" selection-start-column="40" selection-end-line="78" selection-end-column="40" />
+        <state relative-caret-position="-329">
+          <caret line="90" column="41" selection-end-line="109" selection-end-column="1" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>

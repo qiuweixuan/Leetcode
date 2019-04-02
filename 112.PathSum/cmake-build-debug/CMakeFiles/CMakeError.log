@@ -1,0 +1,19 @@
+Detecting C [] compiler features failed to compile with the following output:
+Change Dir: C:/Project/C++/leetcode/Leetcode/112.PathSum/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/nologo" "cmTC_7acff\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\BIN\nmake.exe" -f CMakeFiles\cmTC_7acff.dir\build.make /nologo -L                  CMakeFiles\cmTC_7acff.dir\build
+Building C object CMakeFiles/cmTC_7acff.dir/feature_tests.c.obj
+	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\92431\AppData\Local\Temp\nm956C.tmp
+feature_tests.c
+Linking C executable cmTC_7acff.exe
+	"C:\software\CLion 2018.2.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_7acff.dir --manifests  -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_7acff.dir\objects1.rsp @C:\Users\92431\AppData\Local\Temp\nm9686.tmp
+FINAL LINK: command "C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_7acff.dir\objects1.rsp /out:cmTC_7acff.exe /implib:cmTC_7acff.lib /pdb:C:\Project\C++\leetcode\Leetcode\112.PathSum\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_7acff.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_7acff.dir/intermediate.manifest CMakeFiles\cmTC_7acff.dir/manifest.res" failed (exit code 1104) with the following output:
+LINK : fatal error LNK1104: 鏃犳硶鎵撳紑鏂囦欢鈥渃mTC_7acff.exe鈥?
+NMAKE : fatal error U1077: “"C:\software\CLion 2018.2.1\bin\cmake\win\bin\cmake.exe"”: 返回代码“0xffffffff”
+Stop.
+NMAKE : fatal error U1077: “"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\BIN\nmake.exe"”: 返回代码“0x2”
+Stop.
+
+
+
