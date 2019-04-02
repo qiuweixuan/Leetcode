@@ -12,48 +12,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdc5c5dc-2979-4638-8697-d0f8ae3274fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../100.SameTree/.idea/100.SameTree.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../100.SameTree/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../100.SameTree/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../100.SameTree/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../100.SameTree/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../100.SameTree/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../100.SameTree/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../100.SameTree/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/.idea/102.BinaryTreeLevelOrderTraversal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/.idea/103.BinaryTreeZigzagLevelOrderTraversal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/107.BinaryTreeLevelOrderTraversalII.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/.idea/105.ConstructBinaryTreefromPreorderandInorderTraversal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../100.SameTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../100.SameTree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../97.IsInterleaveString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../97.IsInterleaveString/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../98.ValidateBinarySearchTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../98.ValidateBinarySearchTree/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../99.RecoverBinarySearchTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../99.RecoverBinarySearchTree/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../99.RecoverBinarySearchTree/cmake-build-debug/99_RecoverBinarySearchTree.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../99.RecoverBinarySearchTree/cmake-build-debug/99_RecoverBinarySearchTree.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../99.RecoverBinarySearchTree/cmake-build-debug/99_RecoverBinarySearchTree.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../99.RecoverBinarySearchTree/cmake-build-debug/99_RecoverBinarySearchTree.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../99.RecoverBinarySearchTree/cmake-build-debug/99_RecoverBinarySearchTree.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../99.RecoverBinarySearchTree/cmake-build-debug/99_RecoverBinarySearchTree.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../99.RecoverBinarySearchTree/cmake-build-debug/CMakeFiles/99_RecoverBinarySearchTree.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../99.RecoverBinarySearchTree/cmake-build-debug/CMakeFiles/99_RecoverBinarySearchTree.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../99.RecoverBinarySearchTree/cmake-build-debug/CMakeFiles/99_RecoverBinarySearchTree.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../99.RecoverBinarySearchTree/cmake-build-debug/CMakeFiles/99_RecoverBinarySearchTree.dir/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../99.RecoverBinarySearchTree/cmake-build-debug/CMakeFiles/99_RecoverBinarySearchTree.dir/vc120.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../99.RecoverBinarySearchTree/cmake-build-debug/CMakeFiles/99_RecoverBinarySearchTree.dir/vc120.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../99.RecoverBinarySearchTree/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../99.RecoverBinarySearchTree/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,8 +39,8 @@
     <session id="-40899526">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -84,7 +56,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor" />
@@ -93,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="593">
-              <caret line="67" column="2" selection-start-line="67" selection-start-column="2" selection-end-line="67" selection-end-column="2" />
+            <state relative-caret-position="330">
+              <caret line="11" column="12" lean-forward="true" selection-end-line="72" selection-end-column="1" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -180,24 +152,20 @@
       <option name="presentableId" value="Default" />
       <updated>1554125881729</updated>
       <workItem from="1554125883815" duration="535000" />
+      <workItem from="1554179691619" duration="755000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="535000" />
+    <option name="totallyTimeSpent" value="1290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="CMake" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -205,10 +173,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,8 +196,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="67" column="2" selection-start-line="67" selection-start-column="2" selection-end-line="67" selection-end-column="2" />
+        <state relative-caret-position="330">
+          <caret line="11" column="12" lean-forward="true" selection-end-line="72" selection-end-column="1" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>

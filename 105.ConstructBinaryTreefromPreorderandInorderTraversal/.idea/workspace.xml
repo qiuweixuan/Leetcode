@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="98_ValidateBinarySearchTree" targetName="98_ValidateBinarySearchTree" />
+      <config projectName="105_ConstructBinaryTreefromPreorderandInorderTraversal" targetName="105_ConstructBinaryTreefromPreorderandInorderTraversal" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,12 +11,22 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe51f750-eae6-4f8b-9ded-ebf2365a79f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="a47757b1-a6b1-4e40-b431-b1b0ef071898" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/105.ConstructBinaryTreefromPreorderandInorderTraversal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../100.SameTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../100.SameTree/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../107.BinaryTreeLevelOrderTraversalII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../107.BinaryTreeLevelOrderTraversalII/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../97.IsInterleaveString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../97.IsInterleaveString/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../98.ValidateBinarySearchTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../98.ValidateBinarySearchTree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../99.RecoverBinarySearchTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../99.RecoverBinarySearchTree/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,32 +37,28 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FUSProjectUsageTrigger">
-    <session id="1089373627">
+    <session id="749379427">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cpp" value="2457" />
+          <entry key="cpp" value="1233" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="ObjectiveC" value="2457" />
+          <entry key="Doxygen file" value="1" />
+          <entry key="ObjectiveC" value="1232" />
         </counts>
       </usages-collector>
     </session>
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="98_ValidateBinarySearchTree" />
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor" />
@@ -61,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="90" column="5" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
+            <state relative-caret-position="390">
+              <caret line="61" selection-start-line="61" selection-end-line="109" selection-end-column="2" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -100,18 +106,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="98_ValidateBinarySearchTree" type="b2602c69:ProjectViewProjectNode" />
-              <item name="98.ValidateBinarySearchTree" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -131,8 +127,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.98_ValidateBinarySearchTree">
-    <configuration name="98_ValidateBinarySearchTree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="98_ValidateBinarySearchTree" TARGET_NAME="98_ValidateBinarySearchTree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="98_ValidateBinarySearchTree" RUN_TARGET_NAME="98_ValidateBinarySearchTree">
+  <component name="RunManager" selected="Application.105_ConstructBinaryTreefromPreorderandInorderTraversal">
+    <configuration name="105_ConstructBinaryTreefromPreorderandInorderTraversal" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="105_ConstructBinaryTreefromPreorderandInorderTraversal" TARGET_NAME="105_ConstructBinaryTreefromPreorderandInorderTraversal" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="105_ConstructBinaryTreefromPreorderandInorderTraversal" RUN_TARGET_NAME="105_ConstructBinaryTreefromPreorderandInorderTraversal">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -144,7 +140,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.Build All" />
-      <item itemvalue="Application.98_ValidateBinarySearchTree" />
+      <item itemvalue="Application.105_ConstructBinaryTreefromPreorderandInorderTraversal" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -152,43 +148,41 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fe51f750-eae6-4f8b-9ded-ebf2365a79f3" name="Default Changelist" comment="" />
-      <created>1554097249238</created>
+      <changelist id="a47757b1-a6b1-4e40-b431-b1b0ef071898" name="Default Changelist" comment="" />
+      <created>1554179776648</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554097249238</updated>
-      <workItem from="1554097251288" duration="11234000" />
-      <workItem from="1554179690529" duration="142000" />
+      <updated>1554179776648</updated>
+      <workItem from="1554179781065" duration="2367000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11376000" />
+    <option name="totallyTimeSpent" value="2367000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.2533512" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" sideWeight="0.5021097" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="CMake" order="12" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,8 +197,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="90" column="5" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
+        <state relative-caret-position="390">
+          <caret line="61" selection-start-line="61" selection-end-line="109" selection-end-column="2" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>

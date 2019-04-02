@@ -12,48 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="570345b9-11f2-4dbd-9de1-f39613ebe609" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../100.SameTree/.idea/100.SameTree.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../100.SameTree/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../100.SameTree/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../100.SameTree/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../100.SameTree/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../100.SameTree/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../100.SameTree/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../100.SameTree/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/.idea/102.BinaryTreeLevelOrderTraversal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/.idea/103.BinaryTreeZigzagLevelOrderTraversal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../107.BinaryTreeLevelOrderTraversalII/.idea/107.BinaryTreeLevelOrderTraversalII.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../107.BinaryTreeLevelOrderTraversalII/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../107.BinaryTreeLevelOrderTraversalII/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../107.BinaryTreeLevelOrderTraversalII/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../107.BinaryTreeLevelOrderTraversalII/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../107.BinaryTreeLevelOrderTraversalII/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../107.BinaryTreeLevelOrderTraversalII/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../107.BinaryTreeLevelOrderTraversalII/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../100.SameTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../100.SameTree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../97.IsInterleaveString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../97.IsInterleaveString/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../98.ValidateBinarySearchTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../98.ValidateBinarySearchTree/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/99_RecoverBinarySearchTree.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/99_RecoverBinarySearchTree.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/99_RecoverBinarySearchTree.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/99_RecoverBinarySearchTree.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/99_RecoverBinarySearchTree.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/99_RecoverBinarySearchTree.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/99_RecoverBinarySearchTree.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/99_RecoverBinarySearchTree.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/99_RecoverBinarySearchTree.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/99_RecoverBinarySearchTree.dir/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/99_RecoverBinarySearchTree.dir/vc120.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/99_RecoverBinarySearchTree.dir/vc120.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,8 +31,10 @@
     <session id="-1602859018">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -97,7 +63,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
@@ -122,7 +88,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://C:/Program Files (x86)/Microsoft Visual Studio 12.0/VC/include/limits">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-662">
+            <state relative-caret-position="2340">
               <caret line="78" column="10" selection-start-line="78" selection-start-column="10" selection-end-line="78" selection-end-column="10" />
             </state>
           </provider>
@@ -159,8 +125,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,25 +173,20 @@
       <option name="presentableId" value="Default" />
       <updated>1554107985849</updated>
       <workItem from="1554107987789" duration="10697000" />
+      <workItem from="1554179690529" duration="143000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10697000" />
+    <option name="totallyTimeSpent" value="10840000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="43" y="13" width="1400" height="776" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25409836" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="CMake" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
@@ -233,10 +194,16 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,6 +213,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://C:/Program Files (x86)/Microsoft Visual Studio 12.0/VC/include/climits">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -253,12 +223,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Program Files (x86)/Microsoft Visual Studio 12.0/VC/include/climits">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://C:/Program Files (x86)/Microsoft Visual Studio 12.0/VC/include/limits">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-662">
+        <state relative-caret-position="2340">
           <caret line="78" column="10" selection-start-line="78" selection-start-column="10" selection-end-line="78" selection-end-column="10" />
         </state>
       </provider>
