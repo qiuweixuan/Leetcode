@@ -12,6 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdc5c5dc-2979-4638-8697-d0f8ae3274fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/.idea/.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../112.PathSum/.idea/112.PathSum.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../112.PathSum/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../112.PathSum/.idea/misc.xml" afterDir="false" />
@@ -19,6 +20,42 @@
       <change afterPath="$PROJECT_DIR$/../112.PathSum/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../112.PathSum/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../112.PathSum/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/112_PathSum.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/112_PathSum.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/112_PathSum.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/112_PathSum.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/112_PathSum.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/112_PathSum.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/112_PathSum.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/112_PathSum.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/3.12.0/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/3.12.0/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/3.12.0/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/3.12.0/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../112.PathSum/cmake-build-debug/cmake_install.cmake" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../112.PathSum/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../103.BinaryTreeZigzagLevelOrderTraversal/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../105.ConstructBinaryTreefromPreorderandInorderTraversal/.idea/workspace.xml" afterDir="false" />
@@ -37,6 +74,7 @@
     <session id="-40899526">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.opened" value="2" />
         </counts>
@@ -159,7 +197,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
