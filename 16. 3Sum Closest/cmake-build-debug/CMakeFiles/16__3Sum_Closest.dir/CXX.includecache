@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Project/c++/alogorithm/16. 3Sum Closest/main.cpp
+iostream
+-
+string
+-
+sstream
+-
+assert.h
+-
+vector
+-
+cmath
+-
+algorithm
+-
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Project/c++/alogorithm/11. Container With Most Water/main.cpp
+iostream
+-
+string
+-
+vector
+-
+sstream
+-
+algorithm
+-
+utility
+-
+cmath
+-
+

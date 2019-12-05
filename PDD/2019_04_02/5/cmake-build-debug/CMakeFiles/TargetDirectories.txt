@@ -1,0 +1,3 @@
+C:/Project/c++/alogorithm/PDD/5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Project/c++/alogorithm/PDD/5/cmake-build-debug/CMakeFiles/5.dir
+C:/Project/c++/alogorithm/PDD/5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

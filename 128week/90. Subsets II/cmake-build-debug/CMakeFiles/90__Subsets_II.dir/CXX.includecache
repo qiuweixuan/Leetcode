@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Project/c++/alogorithm/128week/90. Subsets II/main.cpp
+iostream
+-
+string
+-
+vector
+-
+map
+-
+algorithm
+-
+sstream
+-
+assert.h
+-
+stack
+-
+set
+-
+unordered_map
+-
+queue
+-
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Project/c++/alogorithm/PDD/4/main.cpp
+iostream
+-
+string
+-
+vector
+-
+map
+-
+algorithm
+-
+sstream
+-
+assert.h
+-
+stack
+-
+

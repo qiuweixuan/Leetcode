@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Project/c++/alogorithm/30. Substring with Concatenation of All Words/main.cpp
+iostream
+-
+string
+-
+vector
+-
+map
+-
+algorithm
+-
+sstream
+-
+assert.h
+-
+stack
+-
+

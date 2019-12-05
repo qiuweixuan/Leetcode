@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(30__Substring_with_Concatenation_of_All_Words)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(30__Substring_with_Concatenation_of_All_Words main.cpp)

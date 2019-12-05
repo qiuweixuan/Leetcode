@@ -1,0 +1,3 @@
+C:/Project/c++/alogorithm/20. Valid Parentheses/cmake-build-debug/CMakeFiles/20__Valid_Parentheses.dir
+C:/Project/c++/alogorithm/20. Valid Parentheses/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Project/c++/alogorithm/20. Valid Parentheses/cmake-build-debug/CMakeFiles/rebuild_cache.dir
